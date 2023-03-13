@@ -1,0 +1,5 @@
+Suppose the following is in foo2.py. What happens if you say python foo2.py on the command-line? Why?
+
+Now, figure out what will happen if you remove the __name__ check in foo3.py.
+
+What will this do when used as a script? When imported as a module? (foo4.py)
